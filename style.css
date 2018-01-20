@@ -1,0 +1,23 @@
+header{
+border:3px #FFCCFF;
+background-image: url("tech images/yah.png");
+background-position: center top;
+background size: 500px 400px;
+background-color: yellow;
+
+
+}
+body{
+	text-align: center;
+	font-size: 1em;
+	background-color: yellow;
+}
+nav ul li{
+	list-style:none;
+}
+main h2{
+	font-style:italic;
+}
+nav,main{
+	color: #F50057;
+}
